@@ -3,3 +3,4 @@ git branch -M main
 git config
 git add git-one
 git commit -m 'massage'
+git push origin main
